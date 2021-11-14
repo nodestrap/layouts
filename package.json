@@ -1,0 +1,28 @@
+{
+  "name": "@nodestrap/layouts",
+  "version": "4.0.0",
+  "description": "A set of reusable common layouts.",
+  "main": "dist/layouts.js",
+  "types": "dist/layouts.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodestrap/layouts.git"
+  },
+  "keywords": [
+    "layouts",
+    "design",
+    "commons"
+  ],
+  "author": "heymarco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodestrap/layouts/issues"
+  },
+  "homepage": "https://github.com/nodestrap/layouts#readme",
+  "dependencies": {
+    "@cssfn/cssfn": "^1.0.2"
+  }
+}
