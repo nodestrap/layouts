@@ -1,6 +1,6 @@
 {
   "name": "@nodestrap/layouts",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "A set of reusable common layouts.",
   "type": "module",
   "main": "dist/layouts.js",
@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/nodestrap/layouts#readme",
   "dependencies": {
-    "@cssfn/cssfn": "^1.0.3"
+    "@cssfn/cssfn": "^1.0.9"
   }
 }
